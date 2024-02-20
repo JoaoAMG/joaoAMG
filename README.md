@@ -9,7 +9,7 @@
 - 📹 Já trabalhei como editor de vídeo
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoAMG)(https://github.com/joaoAMG/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoAMG)](https://github.com/joaoAMG/github-readme-stats)
 <div style="display: inline_block"><br>
   <img align="center" alt="Joao-Kt" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="Joao-An" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg">
