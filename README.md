@@ -4,7 +4,7 @@
 
 - 👨‍🎓 Atualmente sou estudante
 - 📱 estou estudando Kotlin
-- 🕺 tenho 20 anos
+- 🕺 tenho 21 anos
 - 👨‍💻 sou estudante em ADS
 - 📹 Já trabalhei como editor de vídeo
 
