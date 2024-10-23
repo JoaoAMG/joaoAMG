@@ -1,7 +1,7 @@
 # Oi, eu sou o João 😁
 
 - 🕺 tenho 21 anos
-- 👨‍💻 sou estudante em ADS(3/6)
+- 👨‍💻 sou estudante em ADS(4/6)
 - 📹 Já trabalhei como editor de vídeo
 
 ## Minhas Stacks
