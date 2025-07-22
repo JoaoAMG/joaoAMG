@@ -1,7 +1,7 @@
 # Oi, eu sou o João 😁
 
 - 🕺 tenho 22 anos
-- 👨‍💻 sou estudante em ADS(5/6) no IFSP Campus Boituva
+- 👨‍💻 sou estudante em ADS no IFSP Campus Boituva
 
 
 ## Minhas Stacks
