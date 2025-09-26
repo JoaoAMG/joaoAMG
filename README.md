@@ -1,7 +1,7 @@
 # Oi, eu sou o João 😁
 
 - 🕺 tenho 22 anos
-- 👨‍💻 sou estudante em ADS no IFSP Campus Boituva
+- 👨‍💻 sou estudante do Curso Superior de Tecnologia em Analise e Desenvolvimento de Sistemas no IFSP Campus Boituva
 
 
 ## Minhas Stacks
@@ -18,3 +18,9 @@
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:contactjoaof@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://web.whatsapp.com/send?phone=5511941609974)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://joaofsantos.vercel.app/)
+
+<div align="center"><br>
+<a href="https://github.com/bajona">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoAMG&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoAMG&layout=compact&langs_count=10&theme=dark"/>
+  <div/>
