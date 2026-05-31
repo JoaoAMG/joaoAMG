@@ -1,6 +1,6 @@
 # Oi, eu sou o João 😁
 
-- 🕺 tenho 22 anos
+- 🕺 tenho 23 anos
 - 👨‍💻 sou estudante do Curso Superior de Tecnologia em Analise e Desenvolvimento de Sistemas no IFSP Campus Boituva
 
 
